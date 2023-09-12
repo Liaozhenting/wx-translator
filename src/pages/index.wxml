@@ -1,0 +1,2 @@
+{{tools.msg}}
+{{tools.bar(tools.FOO)}}
